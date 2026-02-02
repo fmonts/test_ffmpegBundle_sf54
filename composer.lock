@@ -213,12 +213,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fmonts/ffmpeg-bundle.git",
-                "reference": "21dec53d2845303ea448652e5c645c540d6c0d0f"
+                "reference": "c1da20c03de127a93fa021addf80d2108f933ac1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fmonts/ffmpeg-bundle/zipball/21dec53d2845303ea448652e5c645c540d6c0d0f",
-                "reference": "21dec53d2845303ea448652e5c645c540d6c0d0f",
+                "url": "https://api.github.com/repos/fmonts/ffmpeg-bundle/zipball/c1da20c03de127a93fa021addf80d2108f933ac1",
+                "reference": "c1da20c03de127a93fa021addf80d2108f933ac1",
                 "shasum": ""
             },
             "require": {
@@ -266,9 +266,9 @@
             ],
             "support": {
                 "issues": "https://github.com/fmonts/ffmpeg-bundle/issues",
-                "source": "https://github.com/fmonts/ffmpeg-bundle/tree/0.8.7"
+                "source": "https://github.com/fmonts/ffmpeg-bundle/tree/master"
             },
-            "time": "2026-02-02T16:05:17+00:00"
+            "time": "2026-02-02T16:55:41+00:00"
         },
         {
             "name": "php-ffmpeg/php-ffmpeg",
